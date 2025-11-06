@@ -6,7 +6,7 @@
     <title>my website</title>
 </head>
 <body>
-    
+    <main>
     <div align="center"> 
         <img src="delicious.jpg" alt="this an idomie" height="500">
         <h2 style="color: rgb(228, 137, 62); border-color: rgb(240, 86, 14);">indomie </h2>
@@ -35,12 +35,12 @@
                     chicken
                 </li>
                 <li>
-                    her child (egg)
+                    her child <span style="background-color: rgb(255, 246, 124);">(egg)</span>
                 </li>
                 
             </ul>
 <li>
-                    water
+                   water
                 </li>
 
         </li>
@@ -55,6 +55,6 @@
         and tada! you got <strong>indomie</strong> :)
     </p>
     <p> for more information you can watch this video <a href="link.html" title="i'm sus" >click here</a> </p>
-    
+    </main>
 
 </html>
