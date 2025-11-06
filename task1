@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my website</title>
+</head>
+<body>
+    
+    <div align="center"> 
+        <img src="delicious.jpg" alt="this an idomie" height="500">
+        <h2 style="color: rgb(228, 137, 62); border-color: rgb(240, 86, 14);">indomie </h2>
+
+    </div>
+     
+    <hr>
+    <h3>what's indomie?</h3>
+    <pre>
+    Of all the instant noodles in all of the land,
+    Indomie noodles reign supreme! Not only are they absolutely delightful,
+    they can be easily transformed into a wholesome and delicious meal.
+    </pre>
+    <hr>
+    <h4> so let's start with a <i>delicious recipe!</i> </h4>
+    <br>
+    first is the ingredients!
+    <ol>
+        <li>
+            indomie of course
+        </li>
+        <li>
+            whatever in the fridge
+            <ul>
+                <li>
+                    chicken
+                </li>
+                <li>
+                    her child (egg)
+                </li>
+                
+            </ul>
+<li>
+                    water
+                </li>
+
+        </li>
+    </ol>
+
+    <p>
+        now put everything in the water 
+        <br> <br>
+
+        <img src="indomie.gif" alt="indomie again" height="200">
+        <br><br>
+        and tada! you got <strong>indomie</strong> :)
+    </p>
+    <p> for more information you can watch this video <a href="link.html" title="i'm sus" >click here</a> </p>
+    
+
+</html>
